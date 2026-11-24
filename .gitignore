@@ -1,0 +1,7 @@
+grocery-inventory
+test-runner
+data/demo.csv
+data/inventory.csv
+data/*.tmp
+test_inv*
+*.o

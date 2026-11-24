@@ -1,0 +1,26 @@
+# Fictional sample data for demonstration. Expiry dates are examples only.
+sku,name,category,price_paise,quantity,reorder_level,expiry
+RICE-1KG-A,Basmati Rice 1kg (Brand A),rice,12000,80,20,
+RICE-1KG-B,Basmati Rice 1kg (Brand B),rice,10550,35,20,
+RICE-5KG,Sona Masoori Rice 5kg,rice,31000,12,10,
+DAL-TOOR,Toor Dal 1kg,pulses,15500,40,15,
+DAL-MOONG,Moong Dal 1kg,pulses,14000,8,15,
+ATTA-5KG,Whole Wheat Atta 5kg,flour,24500,25,10,
+OIL-SUN-1L,Sunflower Oil 1L,oil,16500,30,12,
+OIL-MUS-1L,Mustard Oil 1L,oil,17800,14,12,
+MILK-500A,Toned Milk 500ml (Dairy A),milk,2800,60,30,2026-11-26
+MILK-500B,Toned Milk 500ml (Dairy B),milk,2700,24,30,2026-11-25
+CURD-400,Curd 400g,dairy,4500,18,10,2026-11-28
+PANEER-200,Paneer 200g,dairy,9000,9,10,2026-11-22
+BREAD-WHT,White Bread 400g,bakery,4000,22,15,2026-11-25
+BREAD-BRN,Brown Bread 400g,bakery,5000,10,10,2026-11-24
+EGG-12,Eggs (tray of 12),eggs,8400,30,10,2026-12-05
+TEA-250,Black Tea 250g,beverages,11000,45,15,2027-06-30
+COFFEE-100,Instant Coffee 100g,beverages,23500,16,8,2027-03-31
+BISC-CREAM,Cream Biscuits 150g,snacks,3000,70,25,2027-01-15
+BISC-MARIE,Marie Biscuits 200g,snacks,2500,55,25,2027-02-10
+CHIPS-SALT,Salted Chips 90g,snacks,2000,3,20,2026-12-30
+SUGAR-1KG,Sugar 1kg,staples,4800,60,20,
+SALT-1KG,Iodised Salt 1kg,staples,2200,90,30,
+SOAP-100,Bathing Soap 100g,household,3800,50,20,
+DETERGENT-1,Detergent Powder 1kg,household,13000,0,10,
